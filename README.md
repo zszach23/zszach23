@@ -1,6 +1,6 @@
 ### Hi there, I'm Zach Sally 👋
 
-I'm currently in my second year studying Computer Science at the University of Central Florida.
+I'm currently in my third year studying Computer Science at the University of Central Florida.
 
 - 🔭 I’m currently working on ...
   
