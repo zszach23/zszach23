@@ -6,3 +6,14 @@ I recently graduated from the University of Central Florida with a B.S. in Compu
     
   * Building a smart assistant for WebXR using Unity and NodeJS.
   * Creating an Arkham-style Green Arrow fan game with Unreal Engine 5.
+ 
+- 👨‍💻 See my experiences here: https://zszach23.wixsite.com/zachary-sally
+ 
+- 📫 Reach me at: <a href="mailto:zszach23@gmail.com" target="_blank">zszach23@gmail.com</a>
+
+- Connect with me:
+<p align="left">
+    <a href="https://linkedin.com/in/zachary-sally" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+</p>
