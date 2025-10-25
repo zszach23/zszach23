@@ -4,7 +4,8 @@ I recently graduated from the University of Central Florida with a B.S. in Compu
 
 - 🔭 I’m currently working on ...
     
-  * Building a smart assistant for WebXR using Unity and NodeJS.
+  * Building a discoverability engine with an integrated smart assistant for WebXR using Unity and NodeJS.
+  * Implementing a warehouse inventory web application using Java Spring Boot, GraphQL, and PostgreSQL.
   * Creating an Arkham-style Green Arrow fan game with Unreal Engine 5.
  
 - 👨‍💻 See my experiences here: https://zszach23.wixsite.com/zachary-sally
