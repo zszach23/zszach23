@@ -12,9 +12,4 @@ I recently graduated from the University of Central Florida with a B.S. in Compu
  
 - 📫 Reach me at: <a href="mailto:zszach23@gmail.com" target="_blank">zszach23@gmail.com</a>
 
-- Connect with me:
-<p align="left">
-    <a href="https://linkedin.com/in/zachary-sally" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-</p>
+- Connect with me: <a href="https://www.linkedin.com/in/zachary-sally/" target="_blank">LinkedIn</a>
