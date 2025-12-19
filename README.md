@@ -1,10 +1,8 @@
 ### Hi there, I'm Zach Sally 👋
 
-I recently graduated from the University of Central Florida with a B.S. in Computer Science. I am currently working at Tap 4 Technologies as a lead XR and Backend Developer.
+I recently graduated from the University of Central Florida with a B.S. in Computer Science.
 
 - 🔭 I’m currently working on ...
-    
-  * Building a discoverability engine with an integrated smart assistant for WebXR using Unity and NodeJS.
   * Implementing a warehouse inventory web application using Java Spring Boot, GraphQL, and PostgreSQL.
   * Creating an Arkham-style Green Arrow fan game with Unreal Engine 5.
  
